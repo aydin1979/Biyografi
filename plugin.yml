@@ -1,0 +1,13 @@
+name: Biyografi
+main: aydin\Biyografi
+api: 4.0.0
+version: 1.0
+
+commands:
+ biyografi:
+  description: "Biyografi Menüsü"
+  permission: "biyo.menu"
+  
+permissions:
+ biyo.menu:
+  default: true
